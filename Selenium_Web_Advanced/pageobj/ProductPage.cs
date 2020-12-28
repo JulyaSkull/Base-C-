@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 
-namespace Selenium_Web_Advanced.PO
+namespace Selenium_Web_Advanced.pageobj
 {
     class ProductPage
     {
@@ -70,8 +70,6 @@ namespace Selenium_Web_Advanced.PO
         {
             return Title.Text;
         }
-
-        /////////////////////////////////////////////////
         public string ReadProductName()
         {
             return productNameInput.GetAttribute("value");

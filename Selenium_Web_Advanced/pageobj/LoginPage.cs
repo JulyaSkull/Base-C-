@@ -4,7 +4,7 @@ using System.Text;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 
-namespace Selenium_Web_Advanced.PO
+namespace Selenium_Web_Advanced.pageobj
 {
     class LoginPage
     {

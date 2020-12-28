@@ -4,7 +4,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Threading;
-using Selenium_Web_Advanced.PO;
+using Selenium_Web_Advanced.pageobj;
 
 namespace Selenium_Web_Advanced
 {

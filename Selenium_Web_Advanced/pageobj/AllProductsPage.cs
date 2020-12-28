@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 
-namespace Selenium_Web_Advanced.PO
+namespace Selenium_Web_Advanced.pageobj
 {
     class AllProductsPage
     {

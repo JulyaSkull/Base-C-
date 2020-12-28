@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using OpenQA.Selenium;
 
-namespace Selenium_Web_Advanced.PO
+namespace Selenium_Web_Advanced.pageobj
 {
     class HomePage
     {

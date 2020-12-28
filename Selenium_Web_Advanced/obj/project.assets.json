@@ -4753,11 +4753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Юля\\Desktop\\19 ДЗ Selenium WebDriver Advanced\\WebDriverAdv\\Selenium_Web_Advanced.csproj",
+      "projectUniqueName": "C:\\Users\\Юля\\Documents\\GIT\\Base_C_sharp\\Selenium_Web_Advanced\\Selenium_Web_Advanced.csproj",
       "projectName": "Selenium_Web_Advanced",
-      "projectPath": "C:\\Users\\Юля\\Desktop\\19 ДЗ Selenium WebDriver Advanced\\WebDriverAdv\\Selenium_Web_Advanced.csproj",
+      "projectPath": "C:\\Users\\Юля\\Documents\\GIT\\Base_C_sharp\\Selenium_Web_Advanced\\Selenium_Web_Advanced.csproj",
       "packagesPath": "C:\\Users\\Юля\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Юля\\Desktop\\19 ДЗ Selenium WebDriver Advanced\\WebDriverAdv\\obj\\",
+      "outputPath": "C:\\Users\\Юля\\Documents\\GIT\\Base_C_sharp\\Selenium_Web_Advanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юля\\AppData\\Roaming\\NuGet\\NuGet.Config",
